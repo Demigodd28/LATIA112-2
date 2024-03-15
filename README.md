@@ -1,4 +1,10 @@
 # 學習分析工具LATIA（大數據學程）  
+## HW1  
+- 執行檔為[hw1.py](https://github.com/Demigodd28/LATIA112-2/blob/main/HW1/hw1.py)
+- 資料集取自：Kaggle開放式平台
+- 資料集內容：學生的基本資料、生活習慣及生長環境
+- 資料集網址：<https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data>
+- 程式執行完畢會在同一目錄下建立一新資料夾，內容即為圖表
 ## Week1  
 ## Week2  
 **影響大學生每周讀書時間之因素**  
