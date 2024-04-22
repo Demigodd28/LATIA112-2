@@ -2,7 +2,7 @@
 Using Beautiful Soup and Selenium
 - 執行檔為[hw2.py](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/hw2.ipynb)
 - 爬取網頁：<https://www.cpbl.com.tw/stats/recordall>
-## 爬取資料 -- 中華職棒大聯盟2024一軍例行賽 野手成績
+## 爬取內容 -- 中華職棒大聯盟2024一軍例行賽 野手成績
 - 打擊率
 - 出賽數
 - 打席
@@ -28,5 +28,8 @@ Using Beautiful Soup and Selenium
 - 長打率
 - 整體攻擊指數
 - 滾飛出局比
-- 保送三振比
+- 保送三振比  
+## 爬取結果
+- [cpbl.csv](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/cpbl.csv)
+
   
