@@ -1,5 +1,5 @@
 # HW2
-Using BeautifulSoup and Selenium
+### Using BeautifulSoup and Selenium
 - 執行檔為[hw2.py](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/hw2.ipynb)
 - 爬取網頁：<https://www.cpbl.com.tw/stats/recordall>
 ## 爬取內容 -- 中華職棒大聯盟2024一軍例行賽 野手成績
@@ -34,7 +34,7 @@ Using BeautifulSoup and Selenium
 - 此表列出了 2024 中華職棒一軍例行賽野手之打擊排名(前15名)，其中內容由左至右依序為，排名、球隊球員、打擊率、出賽數打席、打數等資訊，也能由此表格了解，誰是這一年最好的打者
 -----------------------------------------------------
 # HW2_2
-Using Request and Beautifulsoup
+### Using Request and Beautifulsoup
 - 執行檔為[hw2_2.py](https://github.com/Demigodd28/LATIA112-2/blob/main/HW2/hw2_2.py)
 - 爬取網頁：<https://invoice.etax.nat.gov.tw/index.html>
 ## 爬取內容 -- 財政部稅務入口網 統一發票號碼獎中獎號碼
