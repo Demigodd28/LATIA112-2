@@ -1,0 +1,7 @@
+執行debugger
+在ngrok.exe的位置
+cmd
+ngrok http 5001
+
+貼網址到line developer
+
