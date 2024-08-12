@@ -1,4 +1,4 @@
-# 學習分析工具LATIA（大數據學程）  
+=# 學習分析工具LATIA（大數據學程）  
 ## HW1  
 - 執行檔為[hw1.py](https://github.com/Demigodd28/LATIA112-2/blob/main/HW1/hw1.py)
 - 資料集取自：Kaggle開放式平台
